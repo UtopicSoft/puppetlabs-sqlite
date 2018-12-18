@@ -7,6 +7,7 @@
   "source": "git://github.com/puppetlabs/puppetlabs-sqlite.git",
   "project_page": "http://github.com/puppetlabs/puppetlabs-sqlite",
   "issues_url": "https://tickets.puppetlabs.com/browse/MODULES",
+  "tags": [ "database", "sqlite" ],
   "dependencies": [],
   "operatingsystem_support": [
     {
